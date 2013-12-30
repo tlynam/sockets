@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Super Example Title</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+</head>
+<body>
+  <h1>Hello World</h1>
+  <p>This ruby script will respond to HTTP Get requests using <a href="http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Socket.html#method-c-tcp_server_loop">Socket.tcp_server_loop</a></p>
+  <p><a href="httpserver.rb">HTTP Server.rb</a></p>  
+  <p><a href="httpmessage.rb">HTTP Message Class.rb</a></p> 
+  <h2>Web Form</h2>
+  <form name="input action"="html_form_action.asp" method="post">
+    Nickname: <input type="text" name="nick"><br>
+    Birthday: <input type="date" name="bday"><br>
+    <input type="submit" value="Submit">
+  </form>
+  <h2>List of movies</h2>
+  <li>Planet of the Apes (who's that guy in the back?)</li>
+  <p><img src="apes.jpg" alt="Planet of the Apes"></p>
+  <li>Bill and Ted's Excellent Adventure - <i>Click the image to send them through time</i></li>
+  <div><p><img src="billted.jpg" alt="Bill and Ted's Excellent Adventure"></p></div>
+
+<script>
+$( "div" ).click(function() {
+  $( "div" ).effect( "bounce", "slow" );
+});
+
+if(typeof(Storage)!=="undefined")
+  {
+  // Yes! localStorage and sessionStorage support!
+  // Some code.....
+  //alert("Yes storage")
+  }
+else
+  {
+  // Sorry! No web storage support..
+  alert("Oh noes, no storage :(")
+  }
+</script>
+</body>
+</html>
+

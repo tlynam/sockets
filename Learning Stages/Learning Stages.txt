@@ -1,0 +1,4 @@
+1st created socket to send and receive.  created multi threaded server for a client to send and receive messages
+2nd created multi threaded http server to respond to a hard coded Get request
+3rd http server accepts hard coded get request and once entire get request is received, it returns the index the get was asking
+4th http server accepts harded coded get request and server breaks each part of request into hash and returns hard coded response. introduced logger

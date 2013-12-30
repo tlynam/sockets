@@ -1,0 +1,1202 @@
+D, [2013-12-14T17:08:36.097556 #1238] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:08:36.097707 #1238] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:08:36.097789 #1238] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:08:36.097830 #1238] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:08:36.097868 #1238] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T17:08:36.097907 #1238] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T17:08:36.097949 #1238] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T17:08:36.097994 #1238] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T17:08:36.098028 #1238] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:08:36.098063 #1238] DEBUG -- : 
+
+D, [2013-12-14T17:08:36.298725 #1238] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T17:08:36.298914 #1238] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:08:36.299007 #1238] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:08:36.299057 #1238] DEBUG -- : Accept: */*
+
+D, [2013-12-14T17:08:36.299105 #1238] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T17:08:36.299166 #1238] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T17:08:36.299214 #1238] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T17:08:36.299260 #1238] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:08:36.299312 #1238] DEBUG -- : 
+
+D, [2013-12-14T17:08:48.188258 #1238] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:08:48.188371 #1238] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:08:48.188431 #1238] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:25.0) Gecko/20100101 Firefox/25.0
+
+D, [2013-12-14T17:08:48.188480 #1238] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:08:48.188540 #1238] DEBUG -- : Accept-Language: en-US,en;q=0.5
+
+D, [2013-12-14T17:08:48.188593 #1238] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:08:48.188633 #1238] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:08:48.188676 #1238] DEBUG -- : 
+
+D, [2013-12-14T17:08:48.248907 #1238] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T17:08:48.248987 #1238] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:08:48.249028 #1238] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:25.0) Gecko/20100101 Firefox/25.0
+
+D, [2013-12-14T17:08:48.249060 #1238] DEBUG -- : Accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+D, [2013-12-14T17:08:48.249088 #1238] DEBUG -- : Accept-Language: en-US,en;q=0.5
+
+D, [2013-12-14T17:08:48.249115 #1238] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:08:48.249141 #1238] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:08:48.249166 #1238] DEBUG -- : 
+
+D, [2013-12-14T17:08:48.251911 #1238] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T17:08:48.251986 #1238] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:08:48.252026 #1238] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:25.0) Gecko/20100101 Firefox/25.0
+
+D, [2013-12-14T17:08:48.252057 #1238] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:08:48.252085 #1238] DEBUG -- : Accept-Language: en-US,en;q=0.5
+
+D, [2013-12-14T17:08:48.252111 #1238] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:08:48.252136 #1238] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:08:48.252161 #1238] DEBUG -- : 
+
+D, [2013-12-14T17:09:48.959359 #1453] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:09:48.959470 #1453] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:09:48.959540 #1453] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:25.0) Gecko/20100101 Firefox/25.0
+
+D, [2013-12-14T17:09:48.959589 #1453] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:09:48.959622 #1453] DEBUG -- : Accept-Language: en-US,en;q=0.5
+
+D, [2013-12-14T17:09:48.959648 #1453] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:09:48.959683 #1453] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:09:48.959712 #1453] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:09:48.959740 #1453] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:09:48.959766 #1453] DEBUG -- : 
+
+D, [2013-12-14T17:09:50.495316 #1453] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:09:50.495413 #1453] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:09:50.495476 #1453] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:25.0) Gecko/20100101 Firefox/25.0
+
+D, [2013-12-14T17:09:50.495528 #1453] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:09:50.495578 #1453] DEBUG -- : Accept-Language: en-US,en;q=0.5
+
+D, [2013-12-14T17:09:50.495621 #1453] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:09:50.495662 #1453] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:09:50.495706 #1453] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:09:50.495749 #1453] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:09:50.495801 #1453] DEBUG -- : 
+
+D, [2013-12-14T17:09:52.448333 #1453] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:09:52.448423 #1453] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:09:52.448477 #1453] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:25.0) Gecko/20100101 Firefox/25.0
+
+D, [2013-12-14T17:09:52.448520 #1453] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:09:52.448557 #1453] DEBUG -- : Accept-Language: en-US,en;q=0.5
+
+D, [2013-12-14T17:09:52.448593 #1453] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:09:52.448627 #1453] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:09:52.448660 #1453] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:09:52.448696 #1453] DEBUG -- : 
+
+D, [2013-12-14T17:38:09.494492 #1479] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:38:09.494619 #1479] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:38:09.494690 #1479] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T17:38:09.494727 #1479] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:38:09.494757 #1479] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:38:09.494785 #1479] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:38:09.494813 #1479] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T17:38:09.494840 #1479] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:38:09.494867 #1479] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:38:09.494894 #1479] DEBUG -- : 
+
+D, [2013-12-14T17:38:27.222633 #1479] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:38:27.222757 #1479] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:38:27.222825 #1479] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T17:38:27.222884 #1479] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:38:27.222937 #1479] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:38:27.222984 #1479] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:38:27.223032 #1479] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T17:38:27.223079 #1479] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:38:27.223125 #1479] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:38:27.223170 #1479] DEBUG -- : 
+
+D, [2013-12-14T17:39:02.587797 #1489] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:39:02.587947 #1489] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:39:02.588042 #1489] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T17:39:02.588080 #1489] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:39:02.588111 #1489] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:39:02.588142 #1489] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:39:02.588171 #1489] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T17:39:02.588197 #1489] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:39:02.588226 #1489] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:39:02.588253 #1489] DEBUG -- : 
+
+D, [2013-12-14T17:39:39.658737 #1490] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:39:39.658978 #1490] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:39:39.659081 #1490] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T17:39:39.659144 #1490] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:39:39.659198 #1490] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:39:39.659247 #1490] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:39:39.659307 #1490] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T17:39:39.659365 #1490] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:39:39.659419 #1490] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:39:39.659480 #1490] DEBUG -- : 
+
+D, [2013-12-14T17:39:42.105159 #1490] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:39:42.105250 #1490] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:39:42.105310 #1490] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T17:39:42.105364 #1490] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:39:42.105407 #1490] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:39:42.105437 #1490] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:39:42.105465 #1490] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T17:39:42.105491 #1490] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:39:42.105518 #1490] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:39:42.105545 #1490] DEBUG -- : 
+
+D, [2013-12-14T17:39:57.381162 #1491] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:39:57.381316 #1491] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:39:57.381411 #1491] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T17:39:57.381484 #1491] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:39:57.381548 #1491] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:39:57.381614 #1491] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:39:57.381675 #1491] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T17:39:57.381735 #1491] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:39:57.381782 #1491] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:39:57.381819 #1491] DEBUG -- : 
+
+D, [2013-12-14T17:40:15.139463 #1492] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T17:40:15.139632 #1492] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T17:40:15.139756 #1492] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T17:40:15.139829 #1492] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T17:40:15.139898 #1492] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T17:40:15.139990 #1492] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T17:40:15.140052 #1492] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T17:40:15.140110 #1492] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T17:40:15.140171 #1492] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T17:40:15.140229 #1492] DEBUG -- : 
+
+D, [2013-12-14T18:25:11.277356 #1492] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T18:25:11.277437 #1492] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:25:11.277484 #1492] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:25:11.277516 #1492] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T18:25:11.277544 #1492] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T18:25:11.277576 #1492] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:25:11.277606 #1492] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:25:11.277633 #1492] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:25:11.277660 #1492] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:25:11.277687 #1492] DEBUG -- : 
+
+D, [2013-12-14T18:25:55.890154 #1538] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T18:25:55.890305 #1538] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:25:55.890369 #1538] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T18:25:55.890406 #1538] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T18:25:55.890440 #1538] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T18:25:55.890469 #1538] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:25:55.890498 #1538] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T18:25:55.890528 #1538] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T18:25:55.890556 #1538] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:25:55.890583 #1538] DEBUG -- : 
+
+D, [2013-12-14T18:26:27.432169 #1540] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T18:26:27.432345 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:26:27.432429 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T18:26:27.432487 #1540] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T18:26:27.432537 #1540] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T18:26:27.432587 #1540] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:26:27.432634 #1540] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T18:26:27.432679 #1540] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T18:26:27.432722 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:26:27.432766 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:26:34.018342 #1540] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T18:26:34.018436 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:26:34.018478 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:26:34.018510 #1540] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T18:26:34.018539 #1540] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T18:26:34.018571 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:26:34.018602 #1540] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:26:34.018629 #1540] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:26:34.018655 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:26:34.220172 #1540] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T18:26:34.220288 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:26:34.220362 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:26:34.220409 #1540] DEBUG -- : Accept: */*
+
+D, [2013-12-14T18:26:34.220453 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:26:34.220506 #1540] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:26:34.220547 #1540] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:26:34.220584 #1540] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:26:34.220630 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:27:32.529359 #1540] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T18:27:32.529469 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:27:32.529507 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:27:32.529534 #1540] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T18:27:32.529567 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:27:32.529597 #1540] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:27:32.529624 #1540] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:27:32.529663 #1540] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:27:32.529711 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:27:32.757294 #1540] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T18:27:32.757410 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:27:32.757473 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:27:32.757523 #1540] DEBUG -- : Accept: */*
+
+D, [2013-12-14T18:27:32.757572 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:27:32.757631 #1540] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:27:32.757664 #1540] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:27:32.757702 #1540] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:27:32.757748 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:27:35.776375 #1540] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T18:27:35.776486 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:27:35.776526 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:27:35.776556 #1540] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T18:27:35.776586 #1540] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T18:27:35.776618 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:27:35.776648 #1540] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:27:35.776675 #1540] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:27:35.776701 #1540] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:27:35.776728 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:27:35.936085 #1540] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T18:27:35.936194 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:27:35.936242 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:27:35.936281 #1540] DEBUG -- : Accept: */*
+
+D, [2013-12-14T18:27:35.936325 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:27:35.936372 #1540] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:27:35.936411 #1540] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:27:35.936453 #1540] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:27:35.936493 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:27:41.014763 #1540] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T18:27:41.014898 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:27:41.014960 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:27:41.015003 #1540] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T18:27:41.015048 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:27:41.015104 #1540] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:27:41.015149 #1540] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:27:41.015196 #1540] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:27:41.015250 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:27:41.181687 #1540] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T18:27:41.181784 #1540] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:27:41.181820 #1540] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:27:41.181848 #1540] DEBUG -- : Accept: */*
+
+D, [2013-12-14T18:27:41.181876 #1540] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:27:41.181908 #1540] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:27:41.181936 #1540] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:27:41.181962 #1540] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:27:41.181989 #1540] DEBUG -- : 
+
+D, [2013-12-14T18:38:20.113386 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T18:38:20.113551 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:38:20.113629 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T18:38:20.113679 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T18:38:20.113720 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T18:38:20.113756 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:38:20.113796 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T18:38:20.113831 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T18:38:20.113866 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:38:20.113900 #1589] DEBUG -- : 
+
+D, [2013-12-14T18:38:27.649005 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T18:38:27.649129 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:38:27.649182 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:38:27.649221 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T18:38:27.649261 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T18:38:27.649302 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:38:27.649359 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:38:27.649420 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:38:27.649481 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:38:27.649537 #1589] DEBUG -- : 
+
+D, [2013-12-14T18:38:27.847091 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T18:38:27.847204 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:38:27.847249 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:38:27.847279 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T18:38:27.847326 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:38:27.847379 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:38:27.847422 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:38:27.847470 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:38:27.847502 #1589] DEBUG -- : 
+
+D, [2013-12-14T18:38:38.082876 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T18:38:38.082984 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T18:38:38.083031 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T18:38:38.083070 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T18:38:38.083111 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T18:38:38.083153 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T18:38:38.083188 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T18:38:38.083222 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T18:38:38.083256 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:04:12.509536 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:04:12.509641 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:04:12.509687 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:04:12.509728 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:04:12.509766 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:04:12.509830 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:04:12.509877 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:04:12.509912 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:04:12.509946 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:04:12.509984 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:04:12.724238 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T20:04:12.724333 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:04:12.724372 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:04:12.724400 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:04:12.724426 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:04:12.724486 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:04:12.724515 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:04:12.724542 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:04:12.724569 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:04:35.283101 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:04:35.283222 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:04:35.283281 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:04:35.283342 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:04:35.283410 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:04:35.283460 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:04:35.283521 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:04:35.283574 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:04:35.283623 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:04:35.283659 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:04:35.454378 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T20:04:35.454476 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:04:35.454512 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:04:35.454540 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:04:35.454566 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:04:35.454627 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:04:35.454656 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:04:35.454682 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:04:35.454711 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:04:50.275299 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:04:50.275429 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:04:50.275491 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:04:50.275531 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:04:50.275568 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:04:50.275609 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:04:50.275649 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:04:50.275684 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:04:50.275719 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:04:50.275755 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:04:50.458047 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T20:04:50.458143 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:04:50.458180 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:04:50.458213 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:04:50.458242 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:04:50.458273 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:04:50.458304 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:04:50.458333 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:04:50.458360 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:05:01.410426 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:05:01.410533 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:05:01.410581 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:05:01.410619 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:05:01.410660 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:05:01.410701 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:05:01.410740 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:05:01.410778 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:05:01.410813 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:05:01.410848 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:05:01.598471 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T20:05:01.598565 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:05:01.598603 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:05:01.598633 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:05:01.598661 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:05:01.598692 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:05:01.598719 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:05:01.598745 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:05:01.598773 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:05:03.443362 #1589] DEBUG -- : GET /www.google.com HTTP/1.1
+
+D, [2013-12-14T20:05:03.443459 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:05:03.443510 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:05:03.443554 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:05:03.443606 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:05:03.443641 #1589] DEBUG -- : Referer: undefined
+
+D, [2013-12-14T20:05:03.443683 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:05:03.443717 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:05:03.443751 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:05:41.327835 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:05:41.327982 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:05:41.328058 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:05:41.328127 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:05:41.328191 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:05:41.328261 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:05:41.328328 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:05:41.328386 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:05:41.328443 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:05:41.328488 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:05:41.515066 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T20:05:41.515162 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:05:41.515201 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:05:41.515230 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:05:41.515256 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:05:41.515290 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:05:41.515318 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:05:41.515344 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:05:41.515371 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:06:08.098125 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:06:08.098235 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:06:08.098281 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:06:08.098317 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:06:08.098352 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:06:08.098391 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:06:08.098435 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:06:08.098474 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:06:08.098509 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:06:08.098544 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:06:08.262626 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T20:06:08.262721 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:06:08.262757 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:06:08.262784 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:06:08.262811 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:06:08.262842 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:06:08.262868 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:06:08.262895 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:06:08.262922 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:09:40.502706 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:09:40.502858 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:09:40.502918 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:09:40.502978 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:09:40.503017 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:09:40.503059 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:09:40.503099 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:09:40.503134 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:09:40.503168 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:09:40.503203 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:09:40.615518 #1589] DEBUG -- : GET /apes.jpg HTTP/1.1
+
+D, [2013-12-14T20:09:40.615614 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:09:40.615652 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:09:40.615682 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:09:40.615709 #1589] DEBUG -- : Accept: image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:09:40.615737 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:09:40.615767 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:09:40.615795 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:09:40.615822 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:09:40.615848 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:09:40.736298 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T20:09:40.736408 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:09:40.736445 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:09:40.736472 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:09:40.736500 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:09:40.736532 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:09:40.736559 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:09:40.736587 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:09:40.736615 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:11:41.031213 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:11:41.031322 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:11:41.031370 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:11:41.031408 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:11:41.031443 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:11:41.031484 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:11:41.031524 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:11:41.031559 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:11:41.031594 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:11:41.031629 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:11:41.139655 #1589] DEBUG -- : GET /apes.jpg HTTP/1.1
+
+D, [2013-12-14T20:11:41.139752 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:11:41.139788 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:11:41.139816 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:11:41.139843 #1589] DEBUG -- : Accept: image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:11:41.139871 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:11:41.139899 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:11:41.139948 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:11:41.139978 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:11:41.140005 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:11:41.140032 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:11:41.143120 #1589] DEBUG -- : GET /billted.jpg HTTP/1.1
+
+D, [2013-12-14T20:11:41.143213 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:11:41.143253 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:11:41.143283 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:11:41.143311 #1589] DEBUG -- : Accept: image/webp,*/*;q=0.8
+
+D, [2013-12-14T20:11:41.143342 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:11:41.143374 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:11:41.143402 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:11:41.143431 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:11:41.143459 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:11:41.278722 #1589] DEBUG -- : GET /favicon.ico HTTP/1.1
+
+D, [2013-12-14T20:11:41.278819 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:11:41.278856 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:11:41.278883 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:11:41.278911 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+
+D, [2013-12-14T20:11:41.278944 #1589] DEBUG -- : Accept-Encoding: gzip,deflate,sdch
+
+D, [2013-12-14T20:11:41.278971 #1589] DEBUG -- : Accept-Language: en-US,en;q=0.8
+
+D, [2013-12-14T20:11:41.278998 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:11:41.279025 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:13:53.070445 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:13:53.070576 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:13:53.070625 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:13:53.070668 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T20:13:53.070706 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:13:53.070742 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:13:53.070777 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:13:53.070811 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:13:53.070845 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:13:53.070879 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:13:53.152123 #1589] DEBUG -- : GET /billted.jpg HTTP/1.1
+
+D, [2013-12-14T20:13:53.152232 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:13:53.152294 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:13:53.152364 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:13:53.152417 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:13:53.152470 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:13:53.152521 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:13:53.152569 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:13:53.152621 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:13:53.152671 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:13:53.152782 #1589] DEBUG -- : GET /apes.jpg HTTP/1.1
+
+D, [2013-12-14T20:13:53.152839 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:13:53.152918 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:13:53.153008 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:13:53.153105 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:13:53.153167 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:13:53.153203 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:13:53.153233 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:13:53.153262 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:13:53.153290 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:14:19.386326 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:14:19.386467 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:14:19.386535 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:14:19.386603 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T20:14:19.386670 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:14:19.386729 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:14:19.386787 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:14:19.386843 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:14:19.386899 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:14:19.386954 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:14:19.462642 #1589] DEBUG -- : GET /apes.jpg HTTP/1.1
+
+D, [2013-12-14T20:14:19.462742 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:14:19.462780 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:14:19.462814 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:14:19.462841 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:14:19.462870 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:14:19.462898 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:14:19.462925 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:14:19.462952 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:14:19.462979 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:14:19.463006 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:14:19.463184 #1589] DEBUG -- : GET /billted.jpg HTTP/1.1
+
+D, [2013-12-14T20:14:19.463229 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:14:19.463302 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:14:19.463338 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:14:19.463367 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:14:19.463397 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:14:19.463427 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:14:19.463457 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:14:19.463486 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:14:19.463515 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:14:19.463544 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:16:00.169544 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:16:00.169679 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:16:00.169744 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:16:00.169796 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T20:16:00.169837 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:16:00.169876 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:16:00.169913 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:16:00.169948 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:16:00.169982 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:16:00.170040 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:16:00.238246 #1589] DEBUG -- : GET /apes.jpg HTTP/1.1
+
+D, [2013-12-14T20:16:00.238347 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:16:00.238387 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:16:00.238419 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:16:00.238446 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:16:00.238487 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:16:00.238517 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:16:00.238545 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:16:00.238571 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:16:00.238598 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:16:00.238638 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:16:00.239014 #1589] DEBUG -- : GET /billted.jpg HTTP/1.1
+
+D, [2013-12-14T20:16:00.239086 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:16:00.239161 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:16:00.239215 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:16:00.239297 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:16:00.239345 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:16:00.239400 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:16:00.239454 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:16:00.239494 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:16:00.239526 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:16:00.239557 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:17:32.237768 #1589] DEBUG -- : GET /index.html HTTP/1.1
+
+D, [2013-12-14T20:17:32.237897 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:17:32.238074 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:17:32.238144 #1589] DEBUG -- : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+D, [2013-12-14T20:17:32.238215 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:17:32.238281 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:17:32.238343 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:17:32.238403 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:17:32.238465 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:17:32.238526 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:17:32.309565 #1589] DEBUG -- : GET /billted.jpg HTTP/1.1
+
+D, [2013-12-14T20:17:32.309689 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:17:32.309734 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:17:32.309780 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:17:32.309813 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:17:32.309842 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:17:32.309871 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:17:32.309899 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:17:32.309925 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:17:32.309952 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:17:32.309979 #1589] DEBUG -- : 
+
+D, [2013-12-14T20:17:32.310170 #1589] DEBUG -- : GET /apes.jpg HTTP/1.1
+
+D, [2013-12-14T20:17:32.310241 #1589] DEBUG -- : Host: localhost:2000
+
+D, [2013-12-14T20:17:32.310305 #1589] DEBUG -- : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+
+D, [2013-12-14T20:17:32.311085 #1589] DEBUG -- : Accept: */*
+
+D, [2013-12-14T20:17:32.311148 #1589] DEBUG -- : Cache-Control: max-age=0
+
+D, [2013-12-14T20:17:32.311185 #1589] DEBUG -- : Referer: http://localhost:2000/index.html
+
+D, [2013-12-14T20:17:32.311216 #1589] DEBUG -- : If-Modified-Since: Wed, 08 Jan 2003 23:11:55 GMT
+
+D, [2013-12-14T20:17:32.311247 #1589] DEBUG -- : Accept-Language: en-us
+
+D, [2013-12-14T20:17:32.311276 #1589] DEBUG -- : Accept-Encoding: gzip, deflate
+
+D, [2013-12-14T20:17:32.311305 #1589] DEBUG -- : Connection: keep-alive
+
+D, [2013-12-14T20:17:32.311333 #1589] DEBUG -- : 
+

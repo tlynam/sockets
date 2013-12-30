@@ -1,0 +1,34 @@
+http://www.tutorialspoint.com/ruby/ruby_socket_programming.htm
+
+http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Socket.html#method-c-tcp_server_loop
+http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Addrinfo.html#method-c-ip
+http://ruby-doc.org/stdlib-2.0.0/libdoc/net/http/rdoc/Net/HTTP.html
+http://www.ruby-doc.org/core-2.0.0/IO.html
+
+http://www.w3.org/Protocols/rfc2616/rfc2616.html
+http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+http://devhub.fm/http-requestresponse-basics/
+http://www.jmarshall.com/easy/http/
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+http://www.w3.org/Protocols/
+http://www.ruby-doc.org/core-2.0.0/Regexp.html
+http://www.ruby-doc.org/stdlib-2.0.0/libdoc/logger/rdoc/Logger.html 
+http://en.wikipedia.org/wiki/Representational_State_Transfer
+https://www.jetbrains.com/ruby/webhelp/testing-restful-web-services.html
+Rubytoolbox
+
+http://en.wikipedia.org/wiki/POST_(HTTP)
+http://posttestserver.com/
+http://apikitchen.com/
+
+http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+Testing with HTTP/1.1 Client
+
+Incorporate status codes with testing
+
+Add port switch
+
+Analyze ruby header.rb and response.rb for parsing
+
